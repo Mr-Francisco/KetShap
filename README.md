@@ -1,2 +1,2 @@
 # KetShap
-Projecto para fim Educativos  versionado
+Projecto para fim Educativos  versionado o mey KetShap
